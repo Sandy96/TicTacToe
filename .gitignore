@@ -1,0 +1,8 @@
+**/.settings/*
+**/target/*
+**/.classpath
+**/.project
+**/resources/protobuf/*
+**/run_local.sh
+**/.deploy
+/.idea
